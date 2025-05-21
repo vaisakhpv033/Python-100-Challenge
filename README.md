@@ -8,11 +8,11 @@ Happy Coding!
 
 This section covers foundational Python concepts, basic data types, string and list manipulations, and simple functions.
 
-1.  **Generating a Random Number**: Write a Python function that generates and returns a random integer within a specified range (e.g., between 1 and 100, inclusive).
-2.  **Generating a 6-Digit Random OTP**: Write a Python function that generates a random 6-digit One-Time Password (OTP) consisting of digits (0-9). The OTP should be returned as a string.
-3.  **Lambda to Generate Random Number**: Write a Python lambda function that, when called, returns a random integer between a specified minimum and maximum value (inclusive).
-4.  **Extracting Digits from a String**: Write a Python function that takes a string as input and returns a new string containing only the digit characters present in the original string, preserving their order.
-5.  **Sum of Digits in a Number**: Write a Python function that takes an integer as input and returns the sum of its digits.
+1.  **Generating a Random Number**: Write a Python function that generates and returns a random integer within a specified range (e.g., between 1 and 100, inclusive). [Solution](./solutions/001_random_number/README.md)
+2.  **Generating a 6-Digit Random OTP**: Write a Python function that generates a random 6-digit One-Time Password (OTP) consisting of digits (0-9). The OTP should be returned as a string. [Solution](./solutions/002_random_otp/README.md)
+3.  **Lambda to Generate Random Number**: Write a Python lambda function that, when called, returns a random integer between a specified minimum and maximum value (inclusive). [Solution](./solutions/003_lambda_random_number/README.md)
+4.  **Extracting Digits from a String**: Write a Python function that takes a string as input and returns a new string containing only the digit characters present in the original string, preserving their order. [Solution](./solutions/004_extract_digits/README.md)
+5.  **Sum of Digits in a Number**: Write a Python function that takes an integer as input and returns the sum of its digits. [Solution](./solutions/005_sum_of_digits/README.md)
 6.  **String Manipulation**: Demonstrate various string manipulation techniques in Python by performing the following operations on a given string:
     * Concatenate it with another string.
     * Replace a specific substring with another substring.
